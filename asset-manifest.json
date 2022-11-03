@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zaddy.gov/static/css/main.f6b66f52.css",
+    "main.css": "/zaddy.gov/static/css/main.ded67575.css",
     "main.js": "/zaddy.gov/static/js/main.1e80cb15.js",
     "static/media/e.png": "/zaddy.gov/static/media/e.ad011fd9d57990fdb60a.png",
     "static/media/zaddy.png": "/zaddy.gov/static/media/zaddy.54a3c7208e7d7bc6b877.png",
     "static/media/z.png": "/zaddy.gov/static/media/z.16377d8efd5970f8c1c8.png",
     "index.html": "/zaddy.gov/index.html",
-    "main.f6b66f52.css.map": "/zaddy.gov/static/css/main.f6b66f52.css.map",
+    "main.ded67575.css.map": "/zaddy.gov/static/css/main.ded67575.css.map",
     "main.1e80cb15.js.map": "/zaddy.gov/static/js/main.1e80cb15.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6b66f52.css",
+    "static/css/main.ded67575.css",
     "static/js/main.1e80cb15.js"
   ]
 }
